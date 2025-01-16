@@ -1,4 +1,4 @@
-777## GOVERNMENT PROMOTE OR CONTROL DEVELOPMENTS IN MACHINE LEARNING AND AI IN CREDIT CARD FRAUD
+## GOVERNMENT PROMOTE OR CONTROL DEVELOPMENTS IN MACHINE LEARNING AND AI IN CREDIT CARD FRAUD
 
 ## ABSTRACT
  The technology of machine learning and artificial intelligence in the world is rapidly increasing daily. This will be done by making use of a dataset from Kaggle,saving the Microsoft Excel to CSV, Jupyter Notebook and Python to select some data analysis of an online fraud transaction by grouping them into different categories and then knowing the total entities, statistics, machine learning algorithms, the data quantity of the fraudster and non-fraudster. The confusion matrix for quality of the data of a given sample. The result and discussion represent the visualization of data by using graphs to describe the machine learning and AI algorithm using the ROC curve of the fraud and non-fraud online transaction.
@@ -65,74 +65,8 @@ credit card fraud detection transaction (Kazeem, 2023) , so that the government 
 (Andrea , et al., 2014).
 
 
-| Machine Learning Algorithm |Accuracy (%) | Precision (%) | Recall (%) | F1_Score (%) |
-| ---- | ---- | _____ | ---- | ----- |
-
-Logistic Regression
-99.91
-86.36
-58.16
-69.51
-Random Forest
-99.96
-97.44
-77.55
-86.36
-Support Vector Machines
-(SVM)
-99.93
-96.83
-62.24
-75.78
-K-means (Clustering)
-45.66
-0.19
-60.2
-0.38
-KNN
-99.95
-93.83
-77.55
-84.92
 
 
 
 
 
-
-
-Machine Learning 
-Algorithm
-Accuracy 
-(%)
-Precision 
-(%)
-Recall 
-(%)
-F1_Score
-Logistic Regression
-99.91
-86.36
-58.16
-69.51
-Random Forest
-99.96
-97.44
-77.55
-86.36
-Support Vector Machines
-(SVM)
-99.93
-96.83
-62.24
-75.78
-K-means (Clustering)
-45.66
-0.19
-60.2
-0.38
-KNN
-99.95
-93.83
-77.55
-84.92
