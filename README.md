@@ -64,6 +64,33 @@ credit card fraud detection transaction (Kazeem, 2023) , so that the government 
 (SVM), Decision Tree Classifier, Random Forest to tackle the detection problem in the society
 (Andrea , et al., 2014).
 
+| Machine Learning Algorithm | Accuracy (%) | Precision (%) |Recall (%) | F1_Score | 
+
+| ------------------------- | -----|-------------|
+| Logistic Regression | 99.91 | 86.36 | 58.16 | 69.51 |
+Random Forest
+99.96
+97.44
+77.55
+86.36
+Support Vector Machines
+(SVM)
+99.93
+96.83
+62.24
+75.78
+K-means (Clustering)
+45.66
+0.19
+60.2
+0.38
+KNN
+99.95
+93.83
+77.55
+84.92
+
+
 
 
 
