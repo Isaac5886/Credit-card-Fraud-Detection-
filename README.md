@@ -1,4 +1,4 @@
-7## GOVERNMENT PROMOTE OR CONTROL DEVELOPMENTS IN MACHINE LEARNING AND AI IN CREDIT CARD FRAUD
+## GOVERNMENT PROMOTE OR CONTROL DEVELOPMENTS IN MACHINE LEARNING AND AI IN CREDIT CARD FRAUD
 
 ## ABSTRACT
  The technology of machine learning and artificial intelligence in the world is rapidly increasing daily. This will be done by making use of a dataset from Kaggle,saving the Microsoft Excel to CSV, Jupyter Notebook and Python to select some data analysis of an online fraud transaction by grouping them into different categories and then knowing the total entities, statistics, machine learning algorithms, the data quantity of the fraudster and non-fraudster. The confusion matrix for quality of the data of a given sample. The result and discussion represent the visualization of data by using graphs to describe the machine learning and AI algorithm using the ROC curve of the fraud and non-fraud online transaction.
