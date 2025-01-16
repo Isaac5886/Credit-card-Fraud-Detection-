@@ -63,3 +63,6 @@ credit card fraud detection transaction (Kazeem, 2023) , so that the government 
   We have used the graphical representation of machine learning algorithms to predict the sample of data analysis to split the one that has the most fraudulent and non-fraudulent transaction using the ROC curve, train, test, Logistic Regression, Support Vector Machine 
 (SVM), Decision Tree Classifier, Random Forest to tackle the detection problem in the society
 (Andrea , et al., 2014).
+
+
+column | column 3
