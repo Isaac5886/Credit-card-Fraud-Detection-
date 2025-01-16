@@ -66,7 +66,7 @@ credit card fraud detection transaction (Kazeem, 2023) , so that the government 
 
 | Machine Learning Algorithm | Accuracy (%) | Precision (%) |Recall (%) | F1_Score | 
 
-| ------------------------- | -----|-------------|
+| :-| : - |
 | Logistic Regression | 99.91 | 86.36 | 58.16 | 69.51 |
 Random Forest
 99.96
