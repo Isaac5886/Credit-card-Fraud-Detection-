@@ -45,7 +45,8 @@ detection.
 # 3. Recall Analysis:
  Random forest and KNN exhibited notable recall of 77.55%,indicating its capability to minimize false positives while capturing a higher proportion of actual fraudulent transactions. 
 
-# 4. F1_Score: Random Forest achieved an  F1-Score of 86.36%, reflecting its balanced 
+# 4. F1_Score: 
+Random Forest achieved an  F1-Score of 86.36%, reflecting its balanced 
 performance in harmonizing Precision and Recall. This balanced measure demonstrates 
 the algorithm's ability to maintain a reasonable trade-off between false positives and false negatives in identifying fraudulent activities.
 
